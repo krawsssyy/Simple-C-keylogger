@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1476609826 source:l:\hax\weqqweqweqwe\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+
+1476609826 source:l:\hax\keylog\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+
